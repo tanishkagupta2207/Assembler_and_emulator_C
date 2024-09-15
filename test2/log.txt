@@ -1,0 +1,10 @@
+Duplicate label on Line 4
+Invalid Syntax on line: 6
+No operand value present on line: 7
+Invalid Syntax on line: 8
+Invalid Syntax on line: 9
+Too many arguments on line: 9
+Invalid label on  Line 10
+Not a valid instruction on Line 11
+Not a valid instruction on Line 12
+Undeclared value accessed on line: 5
