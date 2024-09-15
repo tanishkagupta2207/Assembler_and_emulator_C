@@ -1,0 +1,6 @@
+Comments on Test8:
+
+-> Program returns the address of the searched no. from memory if present otherwise returns -1
+-> here all no. are stored one by one starting from memory location 5
+-> Searched no. is stored on memory location 6
+-> Reg_a is finalized as 6 after completion of code proving code's correctness
