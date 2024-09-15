@@ -1,0 +1,2 @@
+1st pass completed with no errors
+Machine code Successfully generated 
