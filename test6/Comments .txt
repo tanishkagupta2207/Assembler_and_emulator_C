@@ -1,0 +1,6 @@
+Comments: 
+Test6: multiplication of 19 and 57
+
+-> Properly multiplies 19 and 57 using brz and br statements
+-> Output is stored at memory location 0 and can be seen in Reg B in dump file
+-> 19* 57 =1083 that is 0x43B in hex code
