@@ -1,0 +1,5 @@
+Comments on Test7:
+
+-> Program computes max of all available no.s that are initialized
+-> output is 4dd that is 1245 in decimal that is the max no. of all
+-> Output is finally stored in Reg_A  
