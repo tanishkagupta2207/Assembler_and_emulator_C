@@ -1,0 +1,6 @@
+Test 5
+ 
+-> Is a program for addition of numbers from 1 to 10
+-> Produces output in Reg_A as can be seen in dump.txt
+-> Uses mainly add and ldc commands and has comments and irregular formatting handled properly
+-> output should be 55 = sum of first 10 numbers and output is A =0x000037 that is equal to 55 in decimal.  
